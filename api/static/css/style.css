@@ -424,8 +424,8 @@ select {
     100% { transform: translateX(-15px) rotate(-45deg); }
 }
 .app-logo {
-    width: 24px;  /* Adjust size as needed */
-    height: 24px;
+    width: 4px;  /* Adjust size as needed */
+    height: 4px;
     object-fit: contain;
     margin-right: 8px;
 }
