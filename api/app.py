@@ -90,4 +90,5 @@ def continue_story():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
-app.run()
+if __name__ == '__main__':
+    app.run()
